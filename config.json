@@ -1,0 +1,23 @@
+{
+    "bot_token": "7858479933:AAF1-buyULjaWIeL84R8lZ5Nwrer9uusOGA",
+    "bot_provider_token": "1744374395:TEST:f794151c8f5d246bbc7e",
+    "db_name": "DurgerKingBot",
+    "owners": [233614389, 1],
+    "web": {
+        "url": "https://domain.com{route}",
+        "port": 80,
+        "ssl": {
+            "active": false,
+            "paths": {
+                "fullchain": "",
+                "privkey": ""
+            }
+        }
+    },
+    "suggested_tip_amounts": [
+        100,
+        1000,
+        10000,
+        100000
+    ]
+}
